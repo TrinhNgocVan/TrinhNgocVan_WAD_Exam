@@ -1,0 +1,167 @@
+E:\IT-document\React-Project\t2004_1\bin\t2004_1.dll.config
+E:\IT-document\React-Project\t2004_1\bin\t2004_1.dll
+E:\IT-document\React-Project\t2004_1\bin\t2004_1.pdb
+E:\IT-document\React-Project\t2004_1\bin\roslyn\csc.exe
+E:\IT-document\React-Project\t2004_1\bin\roslyn\csc.exe.config
+E:\IT-document\React-Project\t2004_1\bin\roslyn\csc.rsp
+E:\IT-document\React-Project\t2004_1\bin\roslyn\csi.exe
+E:\IT-document\React-Project\t2004_1\bin\roslyn\csi.exe.config
+E:\IT-document\React-Project\t2004_1\bin\roslyn\csi.rsp
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IT-document\React-Project\t2004_1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.AppContext.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Collections.Immutable.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Console.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Globalization.Calendars.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.IO.Compression.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.IO.FileSystem.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Net.Http.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Net.Sockets.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Reflection.Metadata.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.ValueTuple.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Xml.XPath.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IT-document\React-Project\t2004_1\bin\roslyn\vbc.exe
+E:\IT-document\React-Project\t2004_1\bin\roslyn\vbc.exe.config
+E:\IT-document\React-Project\t2004_1\bin\roslyn\vbc.rsp
+E:\IT-document\React-Project\t2004_1\bin\roslyn\VBCSCompiler.exe
+E:\IT-document\React-Project\t2004_1\bin\roslyn\VBCSCompiler.exe.config
+E:\IT-document\React-Project\t2004_1\bin\Antlr3.Runtime.dll
+E:\IT-document\React-Project\t2004_1\bin\EntityFramework.dll
+E:\IT-document\React-Project\t2004_1\bin\EntityFramework.SqlServer.dll
+E:\IT-document\React-Project\t2004_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IT-document\React-Project\t2004_1\bin\Microsoft.Web.Infrastructure.dll
+E:\IT-document\React-Project\t2004_1\bin\Newtonsoft.Json.dll
+E:\IT-document\React-Project\t2004_1\bin\System.Numerics.Vectors.dll
+E:\IT-document\React-Project\t2004_1\bin\System.Web.Helpers.dll
+E:\IT-document\React-Project\t2004_1\bin\System.Web.Mvc.dll
+E:\IT-document\React-Project\t2004_1\bin\System.Web.Optimization.dll
+E:\IT-document\React-Project\t2004_1\bin\System.Web.Razor.dll
+E:\IT-document\React-Project\t2004_1\bin\System.Web.WebPages.Deployment.dll
+E:\IT-document\React-Project\t2004_1\bin\System.Web.WebPages.dll
+E:\IT-document\React-Project\t2004_1\bin\System.Web.WebPages.Razor.dll
+E:\IT-document\React-Project\t2004_1\bin\WebGrease.dll
+E:\IT-document\React-Project\t2004_1\bin\EntityFramework.xml
+E:\IT-document\React-Project\t2004_1\bin\EntityFramework.SqlServer.xml
+E:\IT-document\React-Project\t2004_1\bin\System.Web.Helpers.xml
+E:\IT-document\React-Project\t2004_1\bin\System.Web.Mvc.xml
+E:\IT-document\React-Project\t2004_1\bin\System.Web.Optimization.xml
+E:\IT-document\React-Project\t2004_1\bin\System.Web.Razor.xml
+E:\IT-document\React-Project\t2004_1\bin\System.Web.WebPages.xml
+E:\IT-document\React-Project\t2004_1\bin\System.Web.WebPages.Deployment.xml
+E:\IT-document\React-Project\t2004_1\bin\System.Web.WebPages.Razor.xml
+E:\IT-document\React-Project\t2004_1\bin\Newtonsoft.Json.xml
+E:\IT-document\React-Project\t2004_1\bin\Antlr3.Runtime.pdb
+E:\IT-document\React-Project\t2004_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IT-document\React-Project\t2004_1\obj\Debug\t2004_1.csproj.CoreCompileInputs.cache
+E:\IT-document\React-Project\t2004_1\obj\Debug\t2004_1.csproj.CopyComplete
+E:\IT-document\React-Project\t2004_1\obj\Debug\t2004_1.dll
+E:\IT-document\React-Project\t2004_1\obj\Debug\t2004_1.pdb
+E:\IT-document\React-Project\t2004_1\obj\Debug\t2004_1.csproj.AssemblyReference.cache
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\obj\Debug\t2004_1.csproj.CoreCompileInputs.cache
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\obj\Debug\t2004_1.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\obj\Debug\t2004_1.pdb
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\t2004_1.dll.config
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\t2004_1.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\t2004_1.pdb
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\csc.exe
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\csc.exe.config
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\csc.rsp
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\csi.exe
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\csi.exe.config
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\csi.rsp
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.AppContext.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Collections.Immutable.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Console.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Globalization.Calendars.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.IO.Compression.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.IO.FileSystem.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Net.Http.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Net.Sockets.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Reflection.Metadata.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.ValueTuple.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Xml.XPath.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\vbc.exe
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\vbc.exe.config
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\vbc.rsp
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\VBCSCompiler.exe
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\roslyn\VBCSCompiler.exe.config
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\Antlr3.Runtime.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\EntityFramework.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\EntityFramework.SqlServer.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\Microsoft.Web.Infrastructure.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\Newtonsoft.Json.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Numerics.Vectors.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.Helpers.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.Mvc.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.Optimization.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.Razor.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.WebPages.Deployment.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.WebPages.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.WebPages.Razor.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\WebGrease.dll
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\EntityFramework.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\EntityFramework.SqlServer.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.Helpers.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.Mvc.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.Optimization.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.Razor.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.WebPages.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.WebPages.Deployment.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\System.Web.WebPages.Razor.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\Newtonsoft.Json.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\Antlr3.Runtime.pdb
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IT-document\Giáo trình\SEM3\WAD\TrinhNgocVan_WAD_Exam\t2004_1\obj\Debug\t2004_1.csproj.CopyComplete

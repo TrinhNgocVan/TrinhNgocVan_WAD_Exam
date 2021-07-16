@@ -1,0 +1,78 @@
+﻿@model IEnumerable<t2004_1.Models.Exam>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Admin_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ClassRoom.ClassroomName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExamSubject.ExamSubjectName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Faculty.facultyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ExamDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Duration)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ClassRoom.ClassroomName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExamSubject.ExamSubjectName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Faculty.facultyName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ExamDate)
+        </td>
+        <td>
+            @if(item.Status == 0 ){
+            <p>Ongoing</p>
+            }
+            @if(item.Status == 1 ){
+            <p>Ongoing</p>
+            }
+            @if(item.Status == 2 ){
+            <p>Ongoing</p>
+            }
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Duration)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
