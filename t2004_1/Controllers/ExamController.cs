@@ -83,6 +83,26 @@ namespace t2004_1.Controllers
             ViewBag.FacultyId = new SelectList(db.facultys, "Id", "facultyName", exam.FacultyId);
             return View(exam);
         }
+        public ActionResult StartExam(int? id)
+        {
+            Exam exam = db.exams.Find(id);
+            db.exams.Remove(exam);
+            db.SaveChanges();
+            exam.Status = 1;
+            db.exams.Add(exam);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+        public ActionResult EndExam(int? id)
+        {
+            Exam exam = db.exams.Find(id);
+            db.exams.Remove(exam);
+            db.SaveChanges();
+            exam.Status = 2;
+            db.exams.Add(exam);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
 
         // POST: Exam/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
